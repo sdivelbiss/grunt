@@ -8,7 +8,17 @@
   },
   "author": "Scott Divelbiss",
   "license": "ISC",
-  "dependencies": {
-    "grunt": "^1.0.2"
-  }
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.2",
+    "grunt-contrib-concat": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sdivelbiss/grunt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sdivelbiss/grunt/issues"
+  },
+  "homepage": "https://github.com/sdivelbiss/grunt#readme"
 }
